@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDF Reader</string>
+    <string name="about">About</string>
+    <string name="about_application">Hi, I\'m Matrix.\n\nThis is a simple application which enables you to hear a pdf.\n\nIf pdf contains images, it cannot read, and it simply sits blank.\n\n\nSerial no: 25\nDate of creation: 14 April 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
